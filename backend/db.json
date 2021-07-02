@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "email": "shaurya@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "shoes",
+      "stock": 8,
+      "price": 399.99,
+      "img_url": "https://i.ebayimg.com/00/s/NjQwWDY0MA==/z/xYYAAOSwCL9dm-Oe/$_32.JPG?set_id=880000500F",
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "bags",
+      "stock": 20,
+      "price": 299.99,
+      "img_url": "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/FWAAAOSwPvZf~LMn/$_32.JPG?set_id=8800005007",
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "shirts",
+      "stock": 15,
+      "price": 149.99,
+      "img_url": "https://i.ebayimg.com/00/s/Mzk3WDcwMA==/z/BMwAAOSwzypgT1~O/$_32.JPG?set_id=8800005007",
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "shorts",
+      "stock": 5,
+      "price": 109.99,
+      "img_url": "https://i.ebayimg.com/00/s/NjQwWDY0MA==/z/xYYAAOSwCL9dm-Oe/$_32.JPG?set_id=880000500F",
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "d8ruvgh4ejokqlx458s",
+      "name": "shoes bata",
+      "price": "500",
+      "stock": "15",
+      "img_url": "https://i.ebayimg.com/00/s/Mzk3WDcwMA==/z/3xUAAOSw3ppgT1-b/$_32.JPG?set_id=8800005007",
+      "shortDesc": "Mega Cargo Control Pack Heavy Duty E Track Fitting w/O Ring Flatbed Enclosed Trailers ",
+      "description": "4\" x 30' Truck Winch Tie Down Strap w/Chain Extension Trailer Flatbed Truck, WLL: 5400 lbs, Polyester Tie Down Color: Yellow\n"
+    }
+  ]
+}
